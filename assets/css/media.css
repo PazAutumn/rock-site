@@ -16,7 +16,7 @@
     display: inline-block;
     z-index: 3;
     position: absolute;
-    margin-left: 300px;
+    margin-left: 290px;
     margin-top: -25px;
   }
   header ul {
@@ -25,7 +25,7 @@
   .title {
     width: 100%;
     height: auto;
-    background-size: 150%;
+    background-size: 200%;
     margin: 0;
     padding: 20px 0;
   }
